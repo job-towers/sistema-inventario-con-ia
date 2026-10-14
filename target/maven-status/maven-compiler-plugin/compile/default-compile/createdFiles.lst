@@ -1,0 +1,6 @@
+com/laesquina/inventario/controller/ProductoController.class
+com/laesquina/inventario/controller/ManejadorErrores.class
+com/laesquina/inventario/InventarioApplication.class
+com/laesquina/inventario/model/Producto.class
+com/laesquina/inventario/repository/ProductoRepository.class
+com/laesquina/inventario/service/ProductoService.class
